@@ -229,8 +229,8 @@ const styles = StyleSheet.create({
     height: 49,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingLeft: 20,
-    paddingRight: 20,
+    paddingLeft: 35,
+    paddingRight: 35,
   },
   container: {
     height: 50,
